@@ -1,5 +1,7 @@
 # RISC Processor Design
 
+![Alt text](/images/RISC.png)
+
 ## Overview
 This repository contains the design and implementation of a Reduced Instruction Set Computer (RISC) processor. The project is developed using Logisim, a tool for designing and simulating digital logic circuits. It includes various components like ALU, Register File, and Control Unit, essential for a functional RISC processor.
 
